@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 43a7b1ed8d5497448b744b8f2fe66a3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - playerRightHand: {instanceID: 0}
+  - playerLeftHand: {instanceID: 0}
+  - sonarKnifeModel: {instanceID: 0}
+  - distractionKnifeModel: {instanceID: 0}
+  - teleportKnifeModel: {instanceID: 0}
+  - currentKnife: {instanceID: 0}
+  - playerCanvas: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  - defaultCrosshair: {fileID: 21300000, guid: 5d9d8d4d74c362c499fe81881ddcab57, type: 3}
+  - sonarCrosshair: {fileID: 21300000, guid: d75d36ef5a49388459d2248a473e8ffe, type: 3}
+  - distractionCrosshair: {fileID: 21300000, guid: d383423ffdc99d94b9ebeb5e9cb07de9, type: 3}
+  - teleportCrosshair: {fileID: 21300000, guid: d383423ffdc99d94b9ebeb5e9cb07de9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
